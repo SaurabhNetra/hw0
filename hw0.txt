@@ -2,7 +2,7 @@ Basic information:
 
 - First name (how you prefer to be called): Saurabh
 - Cornell netid: sn575
-- GitHub login: 
+- GitHub login: saurabh.netravalkar@gmail.com
 - Status (audit/enrolled/etc): enrolled
 - Level (ugrad/MEng/PhD/etc): MEng
 - Major: Computer Science
