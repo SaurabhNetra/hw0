@@ -11,12 +11,12 @@ Indicate level of comfort with the following on a five-point scale
 (1 = I've never heard of it, 3 = I can get by, 5 = I know a lot).
 
 - Git: 3
-- Unix shell: 2
+- Unix shell: 3
 - C programming: 4
 - Python programming: 3
 - Computer architecture: 3
 - Locking and concurrency: 3
-- Numerical methods: 2
+- Numerical methods: 3
 
 Is there anything else you feel I should know about your background?
 
