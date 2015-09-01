@@ -13,12 +13,13 @@ Indicate level of comfort with the following on a five-point scale
 - Git: 3
 - Unix shell: 3
 - C programming: 4
-- Python programming: 3
+- Python programming: 4
 - Computer architecture: 3
 - Locking and concurrency: 3
 - Numerical methods: 3
 
 Is there anything else you feel I should know about your background?
+During my undergrad, out of sheer curiosity, I had taken an online offering on Heterogeneous Parallel Programming by Prof. Wen-Mei Hwu on Coursera. It basically introduced the basics of memory architecture used in parallel environments(CUDA C) and algorithms like tiled matrix, tiled convolution,etc. 
 
 Why are you taking the class?
-Out of sheer curiosity, I had taken an online offering on Heterogeneous Parallel Programming by Prof. Wen-Mei Hwu on Coursera. It basically introduced the basics of memory architecture used in parallel environments(CUDA C) and algorithms like tiled matrix, tiled convolution,etc. with dummy data. I loved learning about them and I think this class gives me one of the best opportunities to dive deeper into the field and explore some of the intrinsic performance considerations and optimizations in computer programs. I strongly believe that the skills I will learn at this class on reasoning about programs and fine tuning them would in turn make be not only a better computer programmer, but also a good problem-solver in general.
+I think this class gives me one of the best opportunities to explore intrinsic performance considerations and optimizations in computer programs. I strongly believe that the skills I will learn at this class on reasoning about programs and fine tuning them would in turn make me not only a better computer programmer, but also a good problem-solver in general.
